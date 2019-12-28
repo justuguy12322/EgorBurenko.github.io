@@ -1,0 +1,62 @@
+body {
+    background: #66CCFF;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #eeeeee;
+}   
+
+p {
+    background: #66CCFF;
+    color: white;
+    text-align: right;
+}
+
+li {
+    color: white;
+}
+
+h2 {
+    background-color: #66CCFF;
+    color: white;
+    text-align: right;
+    padding: 5px;
+}
+
+div {
+    color: white;
+    background-color: #66CCFF;
+    padding: 5px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    background-color: rgb(86, 196, 251);
+    padding: 5px;
+    margin: 0px;
+}
+nav h1 {
+    background-color: rgb(86, 196, 251);
+}
+
+header {
+    background-color: rgb(86, 196, 251);
+}
+
+
+head {
+    background-color:rgb(86, 196, 251);
+} 
+
+canvas {
+    align-items: center;
+}
